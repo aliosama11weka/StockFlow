@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StockFlow</string>
+
+    <!-- Academic information shown on the Settings screen. Edit these for your team. -->
+    <string name="about_course">FNI 421 — Phase 1 Project</string>
+    <string name="about_description">StockFlow is a native Android app for managing a clothing inventory. It is built with Kotlin, Jetpack Compose and a Room database.</string>
+    <string name="about_team">Team: add your team members\' names here</string>
+</resources>

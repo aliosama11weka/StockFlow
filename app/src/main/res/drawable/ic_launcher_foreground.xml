@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A simple clothes-hanger mark, kept inside the adaptive icon safe zone. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M48,37 A6,6 0 1,1 54,43 L54,47 L31,63 Q28,66 32,67 L76,67 Q80,66 77,63 L54,47" />
+    <path
+        android:fillColor="#F2A07B"
+        android:pathData="M45,72 L63,72 Q65,72 65,74 L65,76 Q65,78 63,78 L45,78 Q43,78 43,76 L43,74 Q43,72 45,72 Z" />
+</vector>
