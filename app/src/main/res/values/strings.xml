@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StockFlow</string>
+    <string name="search_hint">Search products or SKU…</string>
+    <string name="all_products">All Products</string>
+    <string name="add_product">Add Product</string>
+    <string name="stock_in">Stock In</string>
+    <string name="stock_out">Stock Out</string>
+    <string name="currency">EGP</string>
+    <string name="about_course">Mobile Computing – Clothing Inventory</string>
+    <string name="about_description">StockFlow is a native Android app for managing a clothing inventory. Built with Kotlin, Jetpack Compose and XML layouts, using a local Room database.</string>
+    <string name="about_team">Team: add your team members\' names here</string>
+</resources>
